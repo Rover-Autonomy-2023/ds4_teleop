@@ -1,0 +1,31 @@
+control_to_ds4_input:
+  foward_linear_velocity: R2
+  backward_linear_velocity: L2
+  angular_velocity: left_joystick
+  right_point_turn: R1
+  left_point_turn: L1
+  increment_forward: up
+  increment_backward: down
+
+button_to_joy_buttons:
+  x: 0
+  square: 1
+  triangle: 2
+  circle: 3
+  up: 4
+  down: 5
+  left: 6
+  right: 7
+  L1: 8
+  R1: 9
+  L3: 10
+  R3: 11
+  share: 12
+  options: 13
+  ps: 14
+
+button_to_joy_axes:
+  L2: 0
+  R2: 1
+  left_joystick: 2
+  right_joystick: 3
